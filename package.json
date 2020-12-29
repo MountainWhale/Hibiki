@@ -1,6 +1,6 @@
 {
   "name": "hibiki",
-  "version": "3.2.9",
+  "version": "3.2.10",
   "description": "An easy, customizable, and powerful Discord bot that does anything that your server needs.",
   "author": "smolespi <espi@lesbian.codes> (https://lesbian.codes)",
   "contributors": [
@@ -32,12 +32,12 @@
   },
   "dependencies": {
     "@geo1088/express-session-rethinkdb": "^0.4.2",
-    "@sentry/node": "^5.28.0",
+    "@sentry/node": "^5.29.2",
     "body-parser": "^1.19.0",
     "compression": "^1.7.4",
     "cookie-parser": "^1.4.5",
     "csurf": "^1.11.0",
-    "dayjs": "^1.9.6",
+    "dayjs": "^1.9.7",
     "ejs": "^3.1.5",
     "eris": "^0.14.0",
     "eris-additions": "^1.4.1",
@@ -58,8 +58,8 @@
   },
   "devDependencies": {
     "beautify-proj": "^1.0.0",
-    "eslint": "^7.14.0",
+    "eslint": "^7.16.0",
     "nodemon": "^2.0.6",
-    "pm2": "^4.5.0"
+    "pm2": "^4.5.1"
   }
 }
